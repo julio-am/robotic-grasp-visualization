@@ -1,5 +1,8 @@
 #Grasp-Rendering-Modification
 
+###Installation Instructions:
+https://scaron.info/teaching/installing-openrave-on-ubuntu-14.04.html
+
 ##Programs to know:
 * OpenGL
   * OpenGL is a low level API that is used to interact with the GPU to render 3D applications. OpenGL only handles actual rendering, and provides no API for user input, audio or windowing.
