@@ -1,9 +1,9 @@
-#Grasp-Rendering-Modification
+# Grasp-Rendering-Modification
 
-###Installation Instructions:
+### Installation Instructions:
 https://scaron.info/teaching/installing-openrave-on-ubuntu-14.04.html
 
-##Programs to know:
+## Programs to know:
 * OpenGL
   * OpenGL is a low level API that is used to interact with the GPU to render 3D applications. OpenGL only handles actual rendering, and provides no API for user input, audio or windowing.
 * Qt
@@ -20,7 +20,7 @@ https://scaron.info/teaching/installing-openrave-on-ubuntu-14.04.html
   * OpenRAVE is the grasp simulation framework that
 
 
-##Important OpenRAVE files:
+## Important OpenRAVE files:
 * qtcoinviewer.cpp
   * This file contains the code that initializes the coin3D environment. It also implements message classes that send update messages to the threading software. However these do not actually seem to  be used(?)
 * environment-core.hpp
@@ -32,7 +32,7 @@ https://scaron.info/teaching/installing-openrave-on-ubuntu-14.04.html
 
 
 ----
-##Rendering examples
+## Rendering examples
 
 
 Rendering Hanoi (no silhouettes)
